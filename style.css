@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@500&display=swap');
+
+*{
+    font-family: 'Lemonada', cursive;
+    background-color: rgb(235, 236, 236);
+    text-align: justify;
+    color: rgb(32, 55, 114);
+}
+
+h1{
+    color:rgb(167, 15, 48);
+    font-size: 40px;
+    text-align: center;
+}
+
+.custom_design1{
+     
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.custom_design2{
+     
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: rgb(255, 255, 255);
+}
+
+.custom_design3{
+
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    background-color: rgb(255, 255, 255);    
+}
+
+.custom_design4{
+
+    margin: 60px;
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px 30px 30px 30px;
+}
+
+.custom_design5{
+     
+    margin: 60px;
+    padding: 40px;
+    background-color: rgb(255, 255, 255);   
+    border-radius: 20px;
+    box-shadow: 15px 15px 10px #777474;
+}
